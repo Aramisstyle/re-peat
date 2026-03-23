@@ -1,0 +1,3 @@
+[tool.djlint]
+profile = "html"
+ignore = "H014"

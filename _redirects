@@ -1,0 +1,9 @@
+# Canonical host
+https://www.re-peat.store/* https://re-peat.store/:splat 301!
+
+# Canonical homepage and blog index
+/index.html / 301!
+/blog/index.html /blog/ 301!
+
+# Keep trailing slash canonical for section index
+/about/index.html /about.html 301!

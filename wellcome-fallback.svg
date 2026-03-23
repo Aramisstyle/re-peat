@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Re-Peat Welcome Fallback</title>
+  <desc id="desc">Fallback image for clients without WebP support.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#374151" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#bg)" />
+  <circle cx="980" cy="120" r="180" fill="#dc2626" opacity="0.18" />
+  <circle cx="180" cy="520" r="220" fill="#ef4444" opacity="0.18" />
+  <text x="80" y="270" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="700">Re-Peat</text>
+  <text x="80" y="332" fill="#fecaca" font-family="Segoe UI, Arial, sans-serif" font-size="38">Модерни дрехи втора употреба</text>
+</svg>
