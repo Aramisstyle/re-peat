@@ -1,0 +1,66 @@
+/* Soft sticky Facebook button — sitewide */
+.fb-float {
+  position: fixed;
+  left: 1rem;
+  bottom: 1rem;
+  z-index: 60;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 9999px;
+  background: #1877f2;
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  box-shadow: 0 4px 14px rgba(24, 119, 242, 0.32);
+  opacity: 0.9;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+  animation: fb-float-in 0.4s ease 0.5s both;
+}
+
+.fb-float:hover,
+.fb-float:focus-visible {
+  opacity: 1;
+  transform: scale(1.06);
+  box-shadow: 0 6px 18px rgba(24, 119, 242, 0.42);
+  color: #fff;
+}
+
+.fb-float:focus-visible {
+  outline: 2px solid #1877f2;
+  outline-offset: 3px;
+}
+
+.fb-float svg {
+  width: 1.15rem;
+  height: 1.15rem;
+  fill: currentColor;
+  display: block;
+  pointer-events: none;
+}
+
+/* Sit above full-width mobile call bars */
+@media (max-width: 767px) {
+  .fb-float.fb-float--above-bar {
+    bottom: 5.25rem;
+  }
+}
+
+@keyframes fb-float-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 0.9;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fb-float {
+    animation: none;
+    transition: none;
+  }
+}

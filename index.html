@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="bg">
     <head>
         <meta charset="UTF-8">
@@ -347,9 +347,6 @@
         section[id] {
             scroll-margin-top: 80px;
         }
-        .mobile-call-cta {
-            box-shadow: 0 10px 25px rgba(220, 38, 38, 0.35);
-        }
         .store-icon-xs {
             width: 2px;
             height: 2px;
@@ -387,7 +384,8 @@
             text-decoration-thickness: 1.5px;
         }
         </style>
-    </head>
+        <link rel="stylesheet" href="/fb-float.css">
+</head>
     <body class="bg-white text-gray-900">
         <!-- Navigation -->
         <nav class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-gray-100 shadow-sm">
@@ -1146,14 +1144,6 @@
                 </div>
             </div>
         </footer>
-        <a href="https://www.facebook.com/profile.php?id=61578995424344"
-           target="_blank"
-           rel="noopener noreferrer"
-           title="Последвай Re-Peat във Facebook"
-           class="mobile-call-cta fixed bottom-4 right-4 z-50 md:hidden bg-red-600 text-white px-3 py-2 rounded-full text-sm font-medium whitespace-nowrap flex items-center gap-2">
-            <i data-lucide="facebook" class="w-4 h-4"></i>
-            Последвай ни във Facebook
-        </a>
         <script>
         // Local icon renderer keeps the project dependency-free.
         (function renderInlineIcons() {
@@ -1210,5 +1200,6 @@
             });
         })();
         </script>
-    </body>
+    <a href="https://www.facebook.com/profile.php?id=61578995424344" class="fb-float" target="_blank" rel="noopener noreferrer" aria-label="Последвай Re-Peat във Facebook" title="Последвай ни във Facebook"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14 13.5h2.5l1-4H14v-2c0-1.03 0-2 2-2h1.5V2.14C17.174 2.097 15.943 2 14.643 2 11.928 2 10 3.657 10 6.7v2.8H7v4h3V22h4v-8.5z"/></svg></a>
+</body>
 </html>
