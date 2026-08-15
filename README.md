@@ -29,12 +29,13 @@ Re-Peat е статичен маркетинг сайт за second hand и outl
 
 - Local intent копирайт с фокус върху физически посещения в София
 - Пълни метаданни: `title`, `description`, `canonical`, `hreflang`, Open Graph, Twitter Card
-- JSON-LD graph със `Organization`, `WebSite`, `ClothingStore` (3 локации), `FAQPage`
+- JSON-LD graph със `Organization`, `WebSite`, `ClothingStore` (4 локации), `FAQPage`
 - Facebook присъствие и в SEO слоя чрез `sameAs` в structured data
 - Локационна структура за:
 	- ул. Екзарх Йосиф 10
 	- ул. Поп Богомил 52
 	- ул. Г. С. Раковски 85
+	- ул. Драгалевска 1 (ж.к. Лозенец)
 
 ## Performance profile
 
