@@ -1,0 +1,47 @@
+# Re-Peat
+
+> Re-Peat е верига магазини за дрехи втора ръка / втора употреба и аутлет в София, плюс Puzzle Boutique за нови дамски дрехи. Целта на сайта е локално откриване и посещение във физическите обекти (няма онлайн checkout).
+
+Сайт: https://re-peat.store/
+Език: български (bg-BG)
+Контакт: repeatstores@gmail.com | +359 889 915 579
+Работно време (всички обекти): понеделник–събота 10:00–18:00
+Пълна версия за агенти: [llms-full.txt](https://re-peat.store/llms-full.txt)
+
+## Core pages
+
+- [Начална страница](https://re-peat.store/): Основен SEO хъб за „дрехи втора ръка/употреба София“, магазини, FAQ, контакт.
+- [Дрехи втора ръка в София](https://re-peat.store/drehi-vtora-raka-sofia.html): Градски хъб с преглед на всички локации.
+- [За нас](https://re-peat.store/about.html): Мисия, ръчна селекция, качество и устойчива мода.
+
+## Stores (local landings)
+
+- [Re-Peat Екзарх Йосиф 10](https://re-peat.store/magazin-ekzarh-yosif.html): Second hand в центъра на София.
+- [Re-Peat Поп Богомил 52](https://re-peat.store/magazin-pop-bogomil.html): До Женския пазар / ул. Мария Луиза.
+- [Puzzle Boutique Раковски 85](https://re-peat.store/puzzle-boutique-rakovski.html): Бутик за нови дамски дрехи (не second hand).
+- [Re-Peat Лозенец – Драгалевска 1](https://re-peat.store/magazin-lozenec.html): Нов обект (~200 кв.м., 2 етажа) до метро „Джеймс Баучер“.
+
+## Blog
+
+- [Блог индекс](https://re-peat.store/blog/): Списък със статии за second hand и магазините.
+- [Как да откриете качествени дрехи втора употреба в София](https://re-peat.store/blog/kak-da-otkrijete-kachestveni-drehi-vtora-upotreba-sofia.html): Пълно ръководство за избор на качествен second hand.
+- [Магазини втора ръка в София: как да избереш](https://re-peat.store/blog/magazini-vtora-raka-sofia-kak-da-izberesh.html): Критерии за локация, асортимент и зареждане.
+- [Как да избереш магазин за дрехи втора употреба](https://re-peat.store/blog/kak-da-izberesh-magazin-za-drehi-vtora-upotreba.html): Checklist за качество, подредба и цени.
+- [Кога са най-добрите находки](https://re-peat.store/blog/koga-sa-nai-dobrite-nahodki-vtora-raka.html): Ден, час, зареждане и намаления.
+- [Как работят намаляващите цени](https://re-peat.store/blog/kak-rabotyat-namalyavashtite-ceni.html): График на падащите цени в Re-Peat.
+- [Ръчно селектирани дрехи](https://re-peat.store/blog/rachno-selektirani-drehi.html): Защо и как се прави подборът.
+- [Всекидневно зареждане](https://re-peat.store/blog/vsekidnevno-zarezhdane.html): Защо честото зареждане има значение.
+- [Puzzle Boutique концепция](https://re-peat.store/blog/puzzle-boutique-novi-damski-drehi-sofia.html): Нови дамски дрехи на Раковски 85.
+- [Re-Peat Лозенец откриване](https://re-peat.store/blog/repeat-lozenec-dragalevska-1.html): Новият магазин на Драгалевска 1.
+
+## Contact
+
+- Email: repeatstores@gmail.com
+- Phone: +359 889 915 579
+- Facebook: https://www.facebook.com/profile.php?id=61578995424344
+
+## Optional
+
+- [robots.txt](https://re-peat.store/robots.txt): Crawl rules.
+- [sitemap.xml](https://re-peat.store/sitemap.xml): XML sitemap for search engines.
+- [llms-full.txt](https://re-peat.store/llms-full.txt): Full Markdown content dump for AI agents.

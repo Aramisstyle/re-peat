@@ -2,3 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://re-peat.store/sitemap.xml
+
+# AI / LLM discovery
+# https://re-peat.store/llms.txt
+# https://re-peat.store/llms-full.txt

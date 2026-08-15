@@ -1,0 +1,220 @@
+# Re-Peat — Full site content for AI agents
+
+> Source map: https://re-peat.store/llms.txt
+> Website: https://re-peat.store/
+> Language: Bulgarian (bg-BG)
+> Generated for LLM / agent ingestion. Prefer this file when full context is needed.
+
+## Business overview
+
+Re-Peat е верига физически магазини в София за:
+- дрехи втора ръка / втора употреба
+- аутлет и маркови находки
+- Puzzle Boutique — нови дамски дрехи (отделна концепция)
+
+Няма онлайн checkout. Основната конверсия е посещение в магазин, обаждане или Facebook контакт.
+
+Contact:
+- Email: repeatstores@gmail.com
+- Phone: +359 889 915 579
+- Facebook: https://www.facebook.com/profile.php?id=61578995424344
+- Hours: Monday–Saturday 10:00–18:00 (all locations)
+
+---
+
+## Homepage — https://re-peat.store/
+
+Title: Re-Peat | Дрехи втора ръка и втора употреба в София
+
+Primary positioning: стилни дрехи втора ръка и втора употреба в София; ръчна селекция; намаляващи цени; ежедневно зареждане.
+
+Key claims:
+- Ръчно подбрани и проверени артикули
+- Подредени магазини и любезен персонал
+- Ежедневно ново зареждане
+- Падащи цени / промоции
+- Категории: дамски, мъжки, обувки и аксесоари
+
+Falling prices example shown on site:
+- Week 1: -20%
+- Week 2: -40%
+- Week 3: -60%
+
+FAQ highlights:
+- Намаляващите цени следват график
+- Има маркови дрехи
+- Асортимент за жени, мъже и деца
+- Работно време: пн–сб 10:00–18:00
+- Локации: Екзарх Йосиф 10; Поп Богомил 52; Г. С. Раковски 85 (Puzzle Boutique); Драгалевска 1 (Лозенец)
+
+SEO note for agents: homepage + city hub own broad queries like „дрехи втора ръка София“ / „втора употреба София“. Store pages are hyper-local (street / neighbourhood).
+
+---
+
+## City hub — https://re-peat.store/drehi-vtora-raka-sofia.html
+
+Title / H1: Дрехи втора ръка в София
+
+Overview of 4 locations with maps/phone/email links. Lists:
+1. Екзарх Йосиф 10
+2. Поп Богомил 52
+3. Г. С. Раковски 85 (Puzzle Boutique — нови дамски)
+4. Лозенец – Драгалевска 1 (до метро „Джеймс Баучер“)
+
+---
+
+## About — https://re-peat.store/about.html
+
+Re-Peat вярва, че дрехите втора употреба са стилен и осъзнат избор. Ръчен подбор с високи стандарти за качество, състояние и актуалност. Аутлет, световни марки и уютни магазини.
+
+Why customers choose Re-Peat:
+- Ръчна селекция
+- Ежедневни находки
+- Добра стойност чрез намаляващи цени
+
+---
+
+## Store: Екзарх Йосиф 10 — https://re-peat.store/magazin-ekzarh-yosif.html
+
+H1: Re-Peat на ул. Екзарх Йосиф 10
+Area: център на София
+Address: ул. Екзарх Йосиф 10, София
+Maps: https://maps.google.com/?q=Ekzarh+Yosif+10+Sofia
+Geo: 42.699773, 23.325230
+Offer: просторен second hand с богат избор, аутлет находки, падащи цени, удобен достъп в центъра.
+
+---
+
+## Store: Поп Богомил 52 — https://re-peat.store/magazin-pop-bogomil.html
+
+H1: Re-Peat на ул. Поп Богомил 52
+Area: близо до ул. Мария Луиза и Женския пазар
+Address: ул. Поп Богомил 52, София
+Maps: https://maps.google.com/?q=Pop+Bogomil+52+Sofia
+Geo: 42.7040066, 23.322544
+Offer: често зареждане, подбрани артикули, удобна локация за редовни посещения.
+
+---
+
+## Store: Puzzle Boutique Раковски 85 — https://re-peat.store/puzzle-boutique-rakovski.html
+
+H1: Puzzle Boutique на Раковски 85
+Tagline: Your Puzzle. Your Style.
+IMPORTANT: This location sells NEW women's clothing, not second-hand.
+Address: ул. Г. С. Раковски 85, София
+Maps: https://maps.google.com/?q=G.S.+Rakovski+85+Sofia
+Geo: 42.694257, 23.332823
+Offer: нови дамски колекции, внимателна селекция, бутикова атмосфера, лично отношение.
+Related article: https://re-peat.store/blog/puzzle-boutique-novi-damski-drehi-sofia.html
+
+---
+
+## Store: Лозенец Драгалевска 1 — https://re-peat.store/magazin-lozenec.html
+
+H1: Re-Peat на ул. Драгалевска 1
+Area: ж.к. Лозенец, next to metro „Джеймс Баучер“
+Address: ул. Драгалевска 1, ж.к. Лозенец, София
+Size: ~200 sq.m. on two floors
+Maps: https://maps.google.com/?q=%D0%94%D1%80%D0%B0%D0%B3%D0%B0%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0+1+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F
+Geo: 42.67005, 23.31985
+Offer: повече пространство, често зареждане, внимателен подбор, удобен достъп с метро.
+Related article: https://re-peat.store/blog/repeat-lozenec-dragalevska-1.html
+
+---
+
+## Blog index — https://re-peat.store/blog/
+
+Practical articles about second-hand shopping, falling prices, store selection, Puzzle Boutique and Lozenec.
+
+---
+
+## Blog: Как да откриете качествени дрехи втора употреба в София
+
+URL: https://re-peat.store/blog/kak-da-otkrijete-kachestveni-drehi-vtora-upotreba-sofia.html
+
+Summary: Why people choose second-hand in Sofia (brands, price, sustainability). Benefits: lower prices, unique models, daily restocking, eco choice, fashion finds. How to choose a good shop: daily new items, organised layout, careful selection, falling-price system, assortment for women/men/children. Re-Peat positioning: quality over quantity, hand selection, branded finds, weekly price drops, pleasant stores.
+
+---
+
+## Blog: Магазини втора ръка в София — как да избереш
+
+URL: https://re-peat.store/blog/magazini-vtora-raka-sofia-kak-da-izberesh.html
+
+Criteria:
+1. Regularity of restocking
+2. Quality and selection
+3. Convenient location
+4. Falling-price system
+
+---
+
+## Blog: Как да избереш магазин за дрехи втора употреба
+
+URL: https://re-peat.store/blog/kak-da-izberesh-magazin-za-drehi-vtora-upotreba.html
+
+Checklist: garment condition, store layout, clear pricing logic, frequency of new deliveries.
+
+---
+
+## Blog: Кога са най-добрите находки
+
+URL: https://re-peat.store/blog/koga-sa-nai-dobrite-nahodki-vtora-raka.html
+
+Best moments: after new restock (selection), during next discount stage (price), in quieter hours (calm browsing). Plan: pick 2–3 categories, visit after restock, return for discount stage.
+
+---
+
+## Blog: Как работят намаляващите цени
+
+URL: https://re-peat.store/blog/kak-rabotyat-namalyavashtite-ceni.html
+
+Prices decrease in stages over time. Customer chooses buy-now vs wait. Alternative to „clothes by kilo“ with clearer pricing. Buy immediately for unique exact-fit finds; wait for universal basics. Visit plan: choose categories, check new arrivals, split into „buy now“ / „watch“, combine with daily restocking.
+
+---
+
+## Blog: Ръчно селектирани дрехи
+
+URL: https://re-peat.store/blog/rachno-selektirani-drehi.html
+
+Hand selection means items are reviewed against quality/style/value criteria before reaching the floor. Benefits: better first-choice quality, less time wasted, clearer style–condition–price mix, calmer shopping. Smart shopping: enter with a goal, check frequent-wear categories, match with existing wardrobe, combine with restocking + falling prices.
+
+---
+
+## Blog: Всекидневно зареждане
+
+URL: https://re-peat.store/blog/vsekidnevno-zarezhdane.html
+
+Daily restocking keeps assortment fresh. Strategic visits with a clear goal beat random impulse buys. Best combo: daily new items + hand selection + falling prices.
+
+---
+
+## Blog: Puzzle Boutique концепция
+
+URL: https://re-peat.store/blog/puzzle-boutique-novi-damski-drehi-sofia.html
+
+Puzzle Boutique is a specialised boutique for NEW women's clothes, part of Re-Peat. Focus: new collections, careful selection, elegance, personal service. Location: ул. Г. С. Раковски 85. Slogan: Your Puzzle. Your Style.
+
+---
+
+## Blog: Re-Peat Лозенец откриване
+
+URL: https://re-peat.store/blog/repeat-lozenec-dragalevska-1.html
+
+New store in ж.к. Лозенец at ул. Драгалевска 1, next to metro James Bourchier. ~200 sq.m. on two floors. Frequent restocking, careful quality selection. Message: more space, more finds, more reasons to visit.
+
+---
+
+## Facts agents should not confuse
+
+- Puzzle Boutique (Раковски 85) = NEW women's fashion, not second-hand.
+- Other Re-Peat stores = second-hand / second-use clothing.
+- No e-commerce cart on the website; visit in person.
+- Broad Sofia second-hand queries → homepage / drehi-vtora-raka-sofia.html
+- Neighbourhood/street queries → dedicated store pages
+
+## Discovery files
+
+- https://re-peat.store/llms.txt
+- https://re-peat.store/llms-full.txt
+- https://re-peat.store/robots.txt
+- https://re-peat.store/sitemap.xml
